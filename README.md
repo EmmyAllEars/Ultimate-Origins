@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# EURPG Origins
 
-## Setup
+Adds Origins:
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+- Antimatter
+- Dragonkin (with evolutions)
+- Feline (But better)
+- Mechanhis
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Credit to Tehmonkeyb for Antimatter, Dragonkin, and Dragonkin evolutions. Credit to Lussitonic for Mechanhis concept.
